@@ -1,6 +1,8 @@
 # Do as i say...
 
-# Use this with normal Ubuntu. else modify as needed. in the end i need everything to work properly
+# Use this with normal Ubuntu. else modify as needed. in the end i need everything to work 
+
+# this document is for people  to start working on cadence using their laptops connected to the college network
 
 first open a command prompt in the location of your script
 
