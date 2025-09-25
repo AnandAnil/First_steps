@@ -6,7 +6,7 @@ sudo apt install grub-customizer -y
 sudo apt-get install -y gsfonts-x11 texlive-fonts-extra xfonts-100dpi xfonts-75dpi xfonts-100dpi-transcoded xfonts-75dpi-transcoded -y
 sudo apt install flatpak -y
 sudo apt install gnome-software-plugin-flatpak -y
-flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo -y
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo --assumeyes
 flatpak install flathub net.nokyan.Resources -y
 sudo add-apt-repository universe -y
 sudo add-apt-repository multiverse -y
