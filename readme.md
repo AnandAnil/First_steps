@@ -1,5 +1,7 @@
 # Do as i say...
 
+# Use this with normal Ubuntu. else modify as needed. in the end i need everything to work properly
+
 first open a command prompt in the location of your script
 
 next run the following command
