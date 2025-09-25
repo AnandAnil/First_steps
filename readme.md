@@ -4,6 +4,8 @@
 
 # this document is for people  to start working on cadence using their laptops connected to the college network
 
+# for easiness use normal ubuntu. nothing fancy like fedora or rhel or some stupid stuff like those
+
 first open a command prompt in the location of your script
 
 next run the following command
